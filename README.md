@@ -1,4 +1,4 @@
-# NexusInkMilling Version 2
+# Nexus InkMilling Version 2
 InkMilling script for Achaea's Nexus Client.  Here's why you should check it out:
 
 + You start with guided set up which allows:
